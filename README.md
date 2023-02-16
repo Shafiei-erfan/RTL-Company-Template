@@ -1,1 +1,1 @@
-# RTL-Company-Template
+# LTR - Camping Website
